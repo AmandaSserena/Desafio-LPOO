@@ -1,0 +1,14 @@
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\TDE8\obj\Debug\net8.0\TDE8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\TDE8\obj\Debug\net8.0\TDE8.AssemblyInfoInputs.cache
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\TDE8\obj\Debug\net8.0\TDE8.AssemblyInfo.cs
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\TDE8\obj\Debug\net8.0\TDE8.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\TDE8\bin\Debug\net8.0\TDE8.exe
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\TDE8\bin\Debug\net8.0\TDE8.deps.json
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\TDE8\bin\Debug\net8.0\TDE8.runtimeconfig.json
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\TDE8\bin\Debug\net8.0\TDE8.dll
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\TDE8\bin\Debug\net8.0\TDE8.pdb
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\TDE8\obj\Debug\net8.0\TDE8.dll
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\TDE8\obj\Debug\net8.0\refint\TDE8.dll
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\TDE8\obj\Debug\net8.0\TDE8.pdb
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\TDE8\obj\Debug\net8.0\TDE8.genruntimeconfig.cache
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\TDE8\obj\Debug\net8.0\ref\TDE8.dll
